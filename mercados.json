@@ -1,0 +1,101 @@
+[
+  {
+    "nome": "Guanabara",
+    "id": 1,
+    "items": [
+      {
+        "nome": "Danone",
+        "preco": 5.0,
+        "idProduto": 1,
+        "img": "danone.jpg"
+      },
+      {
+        "nome": "Arroz",
+        "preco": 23.0,
+        "idProduto": 2,
+        "img": "arroz.jpg"
+      },
+      {
+        "nome": "Feijão",
+        "preco": 9.0,
+        "idProduto": 3,
+        "img": "feijao.jpg"
+      },
+      {
+        "nome": "Trakinas",
+        "preco": 9.0,
+        "idProduto": 4,
+        "img": "trakinas.jpg"
+      }
+    ],
+    "latitude": -22.872159731058982,
+    "longitude": -43.549782968539084,
+    "url": "https://www.supermercadosguanabara.com.br/"
+  },
+  {
+    "nome": "Carrefour",
+    "id": 2,
+    "items": [
+      {
+        "nome": "Danone",
+        "preco": 6.5,
+        "idProduto": 5,
+        "img": "danone.jpg"
+      },
+      {
+        "nome": "Arroz",
+        "preco": 20.0,
+        "idProduto": 6,
+        "img": "arroz.jpg"
+      },
+      {
+        "nome": "Feijão",
+        "preco": 10.0,
+        "idProduto": 7,
+        "img": "feijao.jpg"
+      },
+      {
+        "nome": "Trakinas",
+        "preco": 9.0,
+        "idProduto": 8,
+        "img": "trakinas.jpg"
+      }
+    ],
+    "latitude": -22.872711943981308,
+    "longitude": -43.54655674869911,
+    "url": "https://www.mercado.carrefour.com.br/"
+  },
+  {
+    "nome": "Prezunic",
+    "id": 3,
+    "items": [
+      {
+        "nome": "Danone",
+        "preco": 6.5,
+        "idProduto": 9,
+        "img": "danone.jpg"
+      },
+      {
+        "nome": "Arroz",
+        "preco": 20.0,
+        "idProduto": 10,
+        "img": "arroz.jpg"
+      },
+      {
+        "nome": "Feijão",
+        "preco": 10.0,
+        "idProduto": 11,
+        "img": "feijao.jpg"
+      },
+      {
+        "nome": "Trakinas",
+        "preco": 6.0,
+        "idProduto": 12,
+        "img": "trakinas.jpg"
+      }
+    ],
+    "latitude": -22.873922104874378,
+    "longitude": -43.54998699825229,
+    "url": "https://www.prezunic.com.br/"
+  }
+]
